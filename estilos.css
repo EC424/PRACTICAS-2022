@@ -1,0 +1,20 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+button{
+    background-color: bisque;
+    position:fixed;
+    top: 10px;
+    z-index:2;
+}
+#caja{
+    height:1200px;
+    width:400px;
+    margin-top:647px;
+    background-color: rgb(166, 247, 126);
+    z-index: 1;
+    box-sizing: border-box;
+
+    
+}
